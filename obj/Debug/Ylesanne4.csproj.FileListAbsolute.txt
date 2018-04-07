@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne4\Ylesanne4\bin\Debug\Ylesanne4.exe.config
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne4\Ylesanne4\bin\Debug\Ylesanne4.exe
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne4\Ylesanne4\bin\Debug\Ylesanne4.pdb
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne4\Ylesanne4\obj\Debug\Ylesanne4.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne4\Ylesanne4\obj\Debug\Ylesanne4.exe
+C:\Users\HP\Documents\GitHub\programmeerimine\Ylesanne4\Ylesanne4\obj\Debug\Ylesanne4.pdb
